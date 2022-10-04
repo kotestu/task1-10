@@ -92,18 +92,19 @@ footer p{
 
   main{
     width:100%;
-    margin:15px;
+    margin:50px 20px;
     flex-direction:column;
     text-align:center;
   }
 
 .step-box{
   width:90%;
-  margin:0 20px 15px 20px;
+  margin:0 0 20px 0;
 }
 
 .step-img1{
   width:90%;
+  height:150px;
   margin:0 auto;
   padding-top:50%;
   background-size:cover;
@@ -111,12 +112,14 @@ footer p{
 
 .step-img2{
   width:90%;
+  height:150px;
   margin:0 auto;
   padding-top:50%;
   background-size:cover;
 }
 .step-img3{
   width:90%;
+  height:150px;
   margin:0 auto;
   padding-top:50%;
   background-size:cover;
